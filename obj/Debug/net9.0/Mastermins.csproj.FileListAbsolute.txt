@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\bin\Debug\net9.0\Mastermins.exe
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\bin\Debug\net9.0\Mastermins.deps.json
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\bin\Debug\net9.0\Mastermins.runtimeconfig.json
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\bin\Debug\net9.0\Mastermins.dll
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\bin\Debug\net9.0\Mastermins.pdb
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\Mastermins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\Mastermins.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\Mastermins.AssemblyInfo.cs
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\Mastermins.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\Mastermins.dll
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\refint\Mastermins.dll
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\Mastermins.pdb
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\Mastermins.genruntimeconfig.cache
+C:\Users\user\OneDrive\سطح المكتب\savvy\Mastermins\obj\Debug\net9.0\ref\Mastermins.dll
